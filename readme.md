@@ -97,7 +97,7 @@ Run the following command to start the backend server:
 nodemon server.js
 ```
 
-The backend server will run on `http://localhost:5000`.
+The backend server will run on `http://localhost:4000`.
 
 ---
 
@@ -123,7 +123,7 @@ VITE_FB_PROJECT_ID=your_firebase_project_id
 VITE_FB_STORAGE_BUCKET=your_firebase_storage_bucket
 VITE_FB_MESSAGING_SENDER_ID=your_firebase_messaging_sender_id
 VITE_FB_APP_ID=your_firebase_app_id
-VITE_SERVER_URL=http://localhost:5000
+VITE_SERVER_URL=http://localhost:4000
 ```
 
 Replace the Firebase API keys with your own credentials.
