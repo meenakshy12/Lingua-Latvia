@@ -1,6 +1,6 @@
 # 🗣️ **LiguaLativa Chatbot**
 
-**LiguaLativa** is an interactive bilingual chatbot designed to help users practice and improve their Latvian language skills. Powered by **OpenAI** and **DeepL**, the chatbot facilitates smooth communication between English and Latvian, providing translation and grammar correction while maintaining a friendly, informal tone.
+**LiguaLativa** is an interactive chatbot designed to help users practice and improve their Latvian language skills. Powered by **OpenAI** and **DeepL**, the chatbot facilitates smooth communication between English and Latvian, providing translation and grammar correction while maintaining a friendly, informal tone.
 
 ---
 
