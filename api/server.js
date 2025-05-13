@@ -223,19 +223,10 @@ app.post("/game02", async (req, res) => {
         role: "system",
         content: `You are an assistant that generates Latvian vocabulary questions for children learning Latvian. Focus on the difficulty level: ${difficulty}. Each question must:
 - Be grammatically correct and natural.
-- Ensure adjective-noun gender agreement in Latvian sentences.
 - Include a sentence with a missing word (fill-in-the-blank format).
 - Provide an English translation of the sentence.
 - Include three options for the missing word.
-- The options must be grammatically correct and agree in case, number, and gender with the sentence context.
 - Specify the correct answer.
-
-Examples of correct adjective-noun agreement:
-- "vārna ir melna" (The crow is black) - feminine noun with feminine adjective
-- "suns ir melns" (The dog is black) - masculine noun with masculine adjective
-- "upe ir dzidra" (The river is clear) - feminine noun with feminine adjective
-
-Avoid options that do not match the sentence context in gender, number, or case.
 
 Respond in this JSON format:
 [
