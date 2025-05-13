@@ -22,7 +22,9 @@ Welcome to your Latvian learning assistant! I’m here to help you explore and m
 
 ✍ Writing Assistance – Get help with composing texts, corrections, and feedback.
 
-🎯 Exercises & Quizzes – Test your knowledge with interactive challenges.`;
+🎯 Exercises & Quizzes – Test your knowledge with interactive challenges.
+
+🎭 Roleplay Scenarios – Practice real-life conversations in a safe and supportive way!`;
 
 
 const FirstMessageLT = `Sveiki! 👋
