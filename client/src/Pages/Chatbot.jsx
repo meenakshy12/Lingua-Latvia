@@ -41,7 +41,9 @@ Laipni lūdzam savā latviešu valodas mācību palīgā! Esmu šeit, lai palīd
 
 ✍ Rakstīšanas palīdzība — saņemiet palīdzību tekstu sastādīšanā, labojumos un atsauksmēs.
 
-🎯 Vingrinājumi un viktorīnas – pārbaudiet savas zināšanas ar interaktīviem izaicinājumiem.`;
+🎯 Vingrinājumi un viktorīnas – pārbaudiet savas zināšanas ar interaktīviem izaicinājumiem.
+
+🎭 Lomu spēles scenāriji — drošā un atbalstošā veidā praktizējiet sarunas reālajā dzīvē!`;
 const Chatbot = () => {
   const [input, setInput] = useState("");
   const [posts, setPosts] = useState([]);
