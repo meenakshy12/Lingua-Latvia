@@ -13,7 +13,7 @@ app.use(express.json());
 app.get("/", async (req, res) => {
   res.status(200).send({
     message:
-      "This is virtual assistant server url, please visit https://lingua-latvia-app.vercel.app to see the app",
+      "This is virtual assistant server url, please visit https://lingua-latvia-neon.vercel.app to see the app",
   });
 });
 
