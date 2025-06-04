@@ -17,7 +17,7 @@ In addition to the chatbot functionality, **LiguaLativa** now includes Latvian l
 - **Level Tracker** to track student progress and learning levels
 - **Games for Learning**:
 
-     1. **Word builder Game**: Learn the meaning of words in both Latvian and English, with integrated **Text-to-Speech (TTS)** for pronunciation.
+     1. **Word builder Game**: Learn the meaning of words in both Latvian and English.
      2. **Fill in the Blanks Game**: Test vocabulary and sentence structure by completing missing words.
      3. **Word Matching Game**: Match Latvian words with their English counterparts.
 
